@@ -11,6 +11,8 @@
 #define CATEGORY_XHAIR_COMPOSITE "Composite Xhair"
 #define CATEGORY_XHAIR_CROSS "[Cross] Xhair"
 #define CATEGORY_XHAIR_CIRCLE "[Circle] Xhair"
+#define CATEGORY_XHAIR_CIRCLE "[X] Xhair"
+#define CATEGORY_XHAIR_CIRCLE "[Square] Xhair"
 
 #define MAX_CROSS_OUTLINE_THICKNESS 10
 #define MAX_CIRCLE_OUTLINE_THICKNESS 10.0
